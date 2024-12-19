@@ -102,6 +102,7 @@ export default function NewsContainer(props) {
               border: "2px solid rgb(21 27 40)",
               backgroundColor: "rgb(15 18 24)",
               fontSize: "14px",
+              outline:"none",
               color: "white",
             }}
           >
@@ -129,6 +130,7 @@ export default function NewsContainer(props) {
               backgroundColor: "rgb(15 18 24)",
               fontSize: "14px",
               color: "white",
+              outline:"none"
             }}
           >
             <option value="us">United States</option>
